@@ -28,16 +28,16 @@
 - эндпоинт POST /predict_item
 
 Пример использования:
-![alt text](telegram-cloud-photo-size-2-5366581647060887783-y.jpg)
+![src/imgs/predict_item.jpg](src/imgs/predict_item.jpg)
 
 2.  Прогноз по нескольким объектам в csv файле 
 - эндпоинт POST /predict_items
 
 Пример использования:
-![alt text](telegram-cloud-photo-size-2-5366581647060887773-y.jpg)
+![src/imgs/predict_items_csv.jpg](src/imgs/predict_items_csv.jpg)
 
 Пример ответа:
-![alt text](telegram-cloud-photo-size-2-5366581647060887777-y.jpg)
+![src/imgs/predictions.jpg](src/imgs/predictions.jpg)
 
 ## Тестирование
 
@@ -46,7 +46,7 @@
 **http://127.0.0.1:8000/docs**
 
 
-![alt text](telegram-cloud-photo-size-2-5366170635870532934-y.jpg)
+![src/imgs/endpoints.jpg](src/imgs/endpoints.jpg)
 
 
 
